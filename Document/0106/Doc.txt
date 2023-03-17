@@ -1,0 +1,3 @@
+Interface guarda valores colocados nos campos em variáveis, mas imagem é um frame estático, n se move, não salva nenhum dos dois.
+
+Detecção de uma base de imagens salva em uma pasta, diferencia rostos de cada pessoa e coloca nome, se encontrar uma  pessoas fora da base, mostra como desconhecido
